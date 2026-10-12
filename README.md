@@ -1,2 +1,0 @@
-# CSGOLDGO2
-csgoldgo
